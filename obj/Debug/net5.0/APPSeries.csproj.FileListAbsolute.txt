@@ -1,0 +1,16 @@
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\APPSeries.exe
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\APPSeries.deps.json
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\APPSeries.runtimeconfig.json
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\APPSeries.runtimeconfig.dev.json
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\APPSeries.dll
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\ref\APPSeries.dll
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\bin\Debug\net5.0\APPSeries.pdb
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.csprojAssemblyReference.cache
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.AssemblyInfoInputs.cache
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.AssemblyInfo.cs
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.dll
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\ref\APPSeries.dll
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.pdb
+C:\Users\alex_\OneDrive\Área de Trabalho\Avanade\Codigos\APPSeries\obj\Debug\net5.0\APPSeries.genruntimeconfig.cache
